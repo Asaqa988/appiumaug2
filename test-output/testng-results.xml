@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="3" total="4" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-12-16T19:13:06 EET" name="Default suite" finished-at="2023-12-16T19:13:20 EET" duration-ms="13508">
+    <groups>
+    </groups>
+    <test started-at="2023-12-16T19:13:06 EET" name="Default test" finished-at="2023-12-16T19:13:20 EET" duration-ms="13508">
+      <class name="appiumTestcases.myTestCases">
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:appiumTestcases.myTestCases@7f3b84b8]" started-at="2023-12-16T19:13:06 EET" name="myBeforeTest" finished-at="2023-12-16T19:13:06 EET" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method signature="clickonevenNumbers()[pri:0, instance:appiumTestcases.myTestCases@7f3b84b8]" started-at="2023-12-16T19:13:06 EET" name="clickonevenNumbers" finished-at="2023-12-16T19:13:20 EET" duration-ms="13486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonevenNumbers -->
+        <test-method is-config="true" signature="myPostTesting()[pri:0, instance:appiumTestcases.myTestCases@7f3b84b8]" started-at="2023-12-16T19:13:20 EET" name="myPostTesting" finished-at="2023-12-16T19:13:20 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myPostTesting -->
+      </class> <!-- appiumTestcases.myTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
